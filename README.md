@@ -31,11 +31,15 @@
 
 ---
 
+
 ### 📈 Estatísticas GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nickz1nn&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickz1nn&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nickz1nn&show_icons=true&theme=radical&hide_title=false" alt="GitHub Stats" />
 </p>
 
 ---
