@@ -46,8 +46,8 @@
 
 ### ⚡ Sobre mim
 
-- 🚀 Em formação, com experiência prática no back-end e integração com front-end  
-- 🧠 Estudando APIs REST, testes automatizados, arquitetura limpa e integração com Flutter  
+- 🚀 Em formação, com experiência prática no back-end e front-end  
+- 🧠 Estudando APIs REST, testes automatizados, arquitetura limpa
 - 👨‍💻 Sempre buscando aprender e aplicar boas práticas no dia a dia  
 - 🤝 Aberto a colaborações e novas conexões!
 
